@@ -1,4 +1,4 @@
-# Solution-for-CS-GY6923-New-York-University
+# Solution-for-CSGY-6923-NYU
 
 ### Who am I?
 
