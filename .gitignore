@@ -1,7 +1,10 @@
+# latex complie file
 *.tex
-hw\ 1/.texpadtmp/*
-hw\ 1/.ipynb_checkpoints/*
+*/.texpadtmp/*
+*/.ipynb_checkpoints/*
 *.log
-NYU.png
 *.aux
 *.gz
+# image
+*/img/*.png
+*.png
