@@ -8,3 +8,6 @@
 # image
 */img/*.png
 *.png
+*.fls
+*.fdb_latexmk
+*/.vscode/
