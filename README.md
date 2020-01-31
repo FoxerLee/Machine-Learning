@@ -12,6 +12,6 @@ Questions are banned from being public.🤦‍♀️ You can contact me through 
 
 Student of Computer Science and Engineering, New York University.
 
-Email: yl6606@nyu.edu && foxerlee1@gmail.com
+Email: foxerlee1@gmail.com
 
 feel free to contact me and talk about these problems. :)
